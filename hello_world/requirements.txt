@@ -1,0 +1,4 @@
+requests
+aws-lambda-powertools
+pydantic
+fastjsonschema
